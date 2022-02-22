@@ -1,13 +1,13 @@
 # IDEA PROPOSALS:
 
 
-## User retention prediction application developers
+## User retention prediction for application developers
 
 ### Description 
 
 Create a cloud hosted BigQuery machine learning model to determine the likelihood rates of specific users continue to use the app based on the user activity logs.
 
-Technology Stack = Python,Bigquery(SQL), GCP
+Technology Stack = Python, Bigquery(SQL), GCP
 
 
 ## Safety prediction for residents 
