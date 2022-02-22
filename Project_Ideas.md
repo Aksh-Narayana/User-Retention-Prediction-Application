@@ -1,8 +1,7 @@
 # IDEA PROPOSALS:
 
 
-## 1)Churn prediction for game developers using Google Analytics 4 (GA4) and BigQuery ML
-
+## Churn prediction for game developers using Google Analytics 4 (GA4) and BigQuery ML
 
 ### DESCRIPTION 
 
@@ -11,7 +10,7 @@ Using BigQuery ML to run propensity models on Google Analytics 4 data from a gam
 Technology Stack = Python ,Bigquery(SQL), GA4, GCP
 
 
-## 2)safety prediction for residents using a tensorfolw
+## Safety prediction for residents using a tensorfolw
 
 ### Description
 
@@ -20,8 +19,7 @@ ML model to determine a safety score for users after they give an area of San Fr
 Technology Stack = Python
 
 
-
-## 3)Medical insurance cost prediction for citizen using a TensorFlow 
+## Medical insurance cost prediction for citizen using a TensorFlow 
 
 ### Description
 
