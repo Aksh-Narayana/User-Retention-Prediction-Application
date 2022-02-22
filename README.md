@@ -1,7 +1,7 @@
 # IDEA PROPOSALS:
 
 
-## User retention prediction for application developers
+## Title: User retention prediction for application developers
 
 Problem Statement: 
 
