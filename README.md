@@ -3,7 +3,7 @@
 
 ## User retention prediction for application developers
 
-Create a cloud hosted BigQuery machine learning model to determine the likelihood rates of specific users continue to use the app based on the user activity logs.
+Create a cloud hosted BigQuery machine learning model to determine the likelihood rates of specific users continue to use the app based on the user behaverior logs and user demographic information.
 
 Technology Stack = Python, Bigquery(SQL), GCP
 
