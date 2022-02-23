@@ -5,7 +5,7 @@
 
 Problem Statement: 
 
-For application developers, a potentoial challenge for them would be the user retention. They need a realiable and reuseable method to simluate the retention rates of their users so that they can figure out which group of users are likely to be retained/churned. In this way, they can later on keep different users interested in their product by performing corresponidng retention task.
+For application developers, a potential challenge for them would be the user retention. They need a realiable and reuseable method to simluate the retention rates of their users so that they can figure out which group of users are likely to be retained/churned. In this way, they can later on keep different users interested in their product by performing corresponidng retention task.
 
 Abstract:
 
@@ -29,13 +29,31 @@ Undecided
 
 ## Safety prediction for residents 
 
-Cretae a Tensorflow machine learning model to determine the safety score based on the crime cases in the give an area of San Francisco and its associated time.
+Create a Tensorflow machine learning model to determine the safety score based on the crime cases in the give an area of San Francisco and its associated time.
 
 Technology Stack = Python
 
 
-## Medical insurance cost prediction for citizen 
+## Title:  Medical insurance cost prediction for citizen 
+
+Problem Statement:
+
+The objective of this article is to accurately predict insurance costs based on people’s data, including age, Body Mass Index, smoking or not, etc. Additionally, we will also determine what the most important variable influencing insurance costs is. These estimates could be used to create actuarial tables that set the price of yearly premiums higher or lower according to the expected treatment costs. This is a regression problem.
+
+Dataset: https://bit.ly/3H8Oeff
+
+Abstract 
 
 Create a Tensorflow machine learning model to determine the insurance cost for medicine based on patient's personal information.
 
-Technology Stack = Python 
+Approach :
+
+1. Data Cleaning
+2· Exploratory Data Analysis
+3· Metrics and Validation Strategy
+4· Modeling
+5. Linear Regression
+6. Polynomial Regression
+7. Model Evaluation
+
+Technology Stack = Python/R 
