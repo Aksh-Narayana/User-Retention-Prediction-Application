@@ -27,12 +27,31 @@ Undecided
 
 
 
-## Safety prediction for residents 
+## Title:  Generating a Safety Score for Areas Given Crime Data 
 
-Create a Tensorflow machine learning model to determine the safety score based on the crime cases in the give an area of San Francisco and its associated time.
+Problem Statement:
+There aren't any applications that help people determine if traveling between locations in San Francisco is necessarily safe. The question of safety is typically decided based on how individuals feel given the time of year and the time of the day. 
+
+
+Abstract: We would try to build a model that generates a "safety score" which gives users a more quantitative tool to determine how safe their plans are.   
+
+Dataset: https://www.kaggle.com/c/sf-crime
+
+Approach:
+
+1. Go through the data to attain an understanding of it
+2. Preprocess the data
+3. Decide the best types of models that would help us determine a safety score
+4. Choose which metrics to emphasize 
+5. Maximize those metrics
+6. Create a front/backend for users to utilize
+
 
 Technology Stack = Python
 
+Personas:
+
+Undecided
 
 ## Title:  Medical insurance cost prediction for citizen 
 
