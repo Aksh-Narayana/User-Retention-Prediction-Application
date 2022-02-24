@@ -1,7 +1,7 @@
 # IDEA PROPOSALS:
 
 
-## Title: User retention prediction for application developers
+## Title 1: User Retention Prediction for Application Developers
 
 Problem Statement: 
 
@@ -27,7 +27,7 @@ Undecided
 
 
 
-## Title:  Generating a Safety Score for Areas Given Crime Data 
+## Title 2:  Generating a Safety Score for Areas Given Crime Data 
 
 Problem Statement:
 There aren't any applications that help people determine if traveling between locations in San Francisco is necessarily safe. The question of safety is typically decided based on how individuals feel given the time of year and the time of the day. 
@@ -53,7 +53,7 @@ Personas:
 
 Undecided
 
-## Title:  Medical insurance cost prediction for citizen 
+## Title 3:  Medical Insurance Cost Prediction for Citizens 
 
 Problem Statement:
 
