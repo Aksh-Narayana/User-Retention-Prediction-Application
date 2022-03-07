@@ -1,6 +1,3 @@
-# IDEA PROPOSALS:
-
-
 ## Title : User Retention Prediction for Application Developers
 
 Problem Statement: 
