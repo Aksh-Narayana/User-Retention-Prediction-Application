@@ -20,5 +20,5 @@ Python, Bigquery(SQL), GCP
 
 Persona:
 
-application developers who need to know the user retention rate and coresspoinding analytic data regarding their aplication. Knowing all these data would be significantly useful for them to form better targetd and customized user retention task on user in different retention categories.
+Application developers who need to know the user retention rate and coresspoinding analytic data regarding their aplication. Knowing all these data would be significantly useful for them to form better targetd and customized user retention task on user in different retention categories.
 
