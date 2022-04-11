@@ -1,4 +1,4 @@
-## Title : User  Retention Prediction for Application Developers
+## Title : User Retention Prediction for Application Developers
 
 Problem Statement: 
 
@@ -20,5 +20,5 @@ Python, Bigquery(SQL), GCP
 
 Persona:
 
-Undecided
+application developers who need to know the user retention rate and coresspoinding analytic data regarding their aplication. Knowing all these data would be significantly useful for them to form better targetd and customized user retention task on user in different retention categories.
 
