@@ -1,8 +1,8 @@
-## Title : User Retention Prediction for Application Developers
+## Title : User Retention Prediction for Mobile Game Developers
 
 Problem Statement: 
 
-For application developers, a potential challenge for them would be the user retention. They need a realiable and reuseable method to simluate the retention rates of their users so that they can figure out which group of users are likely to be retained/churned. In this way, they can later on keep different users interested in their product by performing corresponidng retention task.
+For mobil game developers, a potential challenge for them would be the user retention. They need a realiable and reuseable method to simluate the retention rates of their users so that they can figure out which group of users are likely to be retained/churned. In this way, they can later on keep different users interested in their product by performing corresponidng retention task.
 
 Abstract:
 
@@ -20,5 +20,5 @@ Python, Bigquery(SQL), GCP
 
 Persona:
 
-Application developers who need to know the user retention rate and coresspoinding analytic data regarding their aplication. Knowing all these data would be significantly useful for them to form better targetd and customized user retention task on user in different retention categories.
+Mobile Game developers who need to know the user retention rate and coresspoinding analytic data regarding their aplication. Knowing all these data would be significantly useful for them to form better targetd and customized user retention task on user in different retention categories.
 
