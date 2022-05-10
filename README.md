@@ -8,7 +8,7 @@ User Retention Prediction for Application Developers
 
 * Abstract:
 
-  * Simulated as a data analysis team, we fetch batched raw log data of the app from the dev/ops team, create and maintain a reliable and high accuracy cloud hosted BigQuery machine learning model, to determine the likelihood rates of users continue to use the app based on the user behaverior logs and user demographic information, and generate an insightful data visualization report to the product manager.
+  * Simulated as a data analysis team, we fetch batched raw log data of the app from the dev/ops team, create and deploy a reliable and high accuracy cloud hosted BigQuery machine learning model, to determine the likelihood rates of users continue to use the app based on the user behaverior logs and user demographic information, and generate an insightful data visualization report to the product manager.
 
 * Approach:
 
