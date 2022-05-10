@@ -15,7 +15,7 @@ User Retention Prediction for Application Developers
   * Pre-process the training data using user's demographic and behavioural logs. 
   * Train and evaluate machine learing models using BigQuery ML in GCP.
   * Make predictions using the terminative ML model and analyze the prediction result.
-  * Perform feature engineering to generate improtant features and add intoto the trainning data space, and remove non-useful features.
+  * Perform feature engineering to generate improtant features and add into the trainning data space, and remove non-useful features.
   * Retrain ML model using the optmized trainning data to boost model relibility and accuracy. 
   * Deploy finalized ML model using AI platform in GCP for real-time(dynamic) predictions.
   * Create an application data dashboard which perform visualization of data insights and prediction results.
