@@ -34,7 +34,9 @@ User Retention Prediction for Application Developers
   * The product manager from the mobile game company ('Flood It!' in this case) who needs to know the user retention rate and corresponding analytic data regarding their game application. Knowing all these perceptive data would be significantly useful for them to design and maintain better targeted and customized user retention tasks on users in different retention categories, and bring positive financial impact to the company in the long run as a result.
 
 * Architecture:
-  * [System Architecture Diagram](System_Architecture.png)
+  * [System Architecture Diagram]
+  *  ![image](https://user-images.githubusercontent.com/99863530/169192085-ba219519-ffc2-48cf-bd91-950a9b0723c6.png)
+
 
 * Results:
   * https://datastudio.google.com/u/3/reporting/c38fc4ea-009f-4514-8602-010c4cc3fa98/page/Gg3
