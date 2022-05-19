@@ -35,7 +35,7 @@ User Retention Prediction for Application Developers
 
 * Architecture:
   * [System Architecture Diagram]
-  *  ![image](https://user-images.githubusercontent.com/99863530/169192085-ba219519-ffc2-48cf-bd91-950a9b0723c6.png)
+  ![image](https://user-images.githubusercontent.com/99863530/169192308-eb43e01a-1587-44c4-b586-f3f163537b9a.png)
 
 
 * Results:
